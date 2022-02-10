@@ -1,0 +1,2 @@
+
+whenever we pass a value to function, go lang creates copy of that value and make it avialable to function.
